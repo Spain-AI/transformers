@@ -1,0 +1,9 @@
+name: transformers-trainer
+dependencies:
+  - jupyter=1.0.*
+  - pandas=1.0.*
+  - pip=19.3.*
+  - pytorch=1.4.*
+  - scikit-learn=0.22.*
+  - pip:
+    - transformers==2.9.*
